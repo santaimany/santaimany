@@ -1,11 +1,10 @@
 <div align="center">
 
-# Hi, I'm [Your Name]
+# Hi, I'm Ahsanta Khalqi Imany
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Web+Solutions" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="280" />
-
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
 ---
@@ -138,24 +137,20 @@ Communication • Teamwork • Time Management
 ## Featured Projects
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%">
-<h3>E-Commerce Platform</h3>
 <a href="https://github.com/santaimany/ecommerce-app">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=santaimany&repo=SIPANDA&theme=tokyonight&hide_border=true" />
 </a>
 <p><strong>Tech Stack:</strong> React • Laravel • MySQL</p>
-<p>Complete e-commerce solution with inventory management and secure payment integration</p>
+
 </td>
 <td width="50%">
-<h3>Task Management System</h3>
 <a href="https://github.com/santaimany/task-manager">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=santaimany&repo=SIPANDA&theme=tokyonight&hide_border=true" />
 </a>
 <p><strong>Tech Stack:</strong> Next.js • TypeScript • MySQL</p>
-<p>Project management tool with team collaboration and progress tracking features</p>
 </td>
 </tr>
 </table>
