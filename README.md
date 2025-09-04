@@ -79,8 +79,8 @@ Communication • Teamwork • Time Management
 ![Profile Views](https://komarev.com/ghpvc/?username=santaimany&color=0e75b6&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/santaimany?label=Followers&style=flat&color=blue)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-Achievement
+
+**Achievement**
 <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </div>
 
