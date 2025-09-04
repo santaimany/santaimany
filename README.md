@@ -2,7 +2,6 @@
 
 # Hi, I'm Ahsanta Khalqi Imany
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Web+Solutions" alt="Typing SVG" />
 
 </div>
 
