@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm [Your Name]
+# Hi, I'm Ahsanta Khalqi Imany
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Laravel+Developer;Building+Web+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Web+Solutions" alt="Typing SVG" />
 
 </div>
 
@@ -10,19 +10,8 @@
 
 ## About Me
 
-I'm a Full Stack Developer with experience in building modern web applications. I specialize in React for frontend development and Laravel for backend systems, creating efficient and scalable solutions.
+I'm a Undergraduate Information Technology Student with experience in building modern web applications.
 
-```javascript
-const developer = {
-    name: "[Your Name]",
-    location: "Indonesia",
-    role: "Full Stack Developer",
-    frontend: ["React", "Next.js", "JavaScript", "TypeScript"],
-    backend: ["PHP", "Laravel"],
-    database: ["MySQL"],
-    skills: ["Communication", "Teamwork", "Time Management"]
-};
-```
 
 ---
 
@@ -69,18 +58,7 @@ Communication • Teamwork • Time Management
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=santaimany&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph">
 </div>
 
----
 
-## Featured Projects
-
-<div align="center">
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **[E-Commerce Platform](https://github.com/santaimany/ecommerce-app)** | Complete e-commerce solution with inventory management and secure payment system | React, Laravel, MySQL |
-| **[Task Management System](https://github.com/santaimany/task-manager)** | Project management tool with team collaboration and progress tracking features | Next.js, TypeScript, MySQL |
-
-</div>
 
 ---
 
