@@ -6,40 +6,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-</div>
 
 ---
 
-## 🌟 About My Journey
-
-```javascript
-const developer = {
-    name: "[Your Name]",
-    location: "Indonesia 🇮🇩",
-    role: "Full Stack Developer",
-    passion: ["Clean Code", "Innovation", "Problem Solving"],
-    currentFocus: "Building amazing web experiences",
-    lifePhilosophy: "Code with purpose, learn with curiosity",
-    coffeeDriven: true ☕
-};
-
-console.log(`${developer.name} is ready to create amazing things!`);
-```
+## Technologies
 
 <div align="center">
 
-### 🎯 What Drives Me
-*"Turning ideas into reality, one line of code at a time"*
-
-</div>
-
----
-
-## 🛡️ Arsenal of Technologies
-
-<div align="center">
-
-### 🎨 Frontend Mastery
+### Frontend Development
 <table>
 <tr>
 <td align="center" width="120">
