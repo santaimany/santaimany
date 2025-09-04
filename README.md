@@ -2,7 +2,7 @@
 
 # Hi, I'm [Your Name]
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Laravel+Developer;Building+Web+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Web+Solutions" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="280" />
 
@@ -12,13 +12,13 @@
 
 ## About Me
 
-I'm a Full Stack Developer with experience in building modern web applications. I specialize in React for frontend development and Laravel for backend systems, creating efficient and scalable solutions.
+I'm a Undergraduate Information Technology Student with experience in building modern web applications.
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```javascript
 const developer = {
-    name: "[Your Name]",
+    name: "Ahsanta Khalqi Imany",
     location: "Indonesia",
     role: "Full Stack Developer",
     frontend: ["React", "Next.js", "JavaScript", "TypeScript"],
@@ -144,7 +144,7 @@ Communication • Teamwork • Time Management
 <td width="50%">
 <h3>E-Commerce Platform</h3>
 <a href="https://github.com/santaimany/ecommerce-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=santaimany&repo=ecommerce-app&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=santaimany&repo=SIPANDA&theme=tokyonight&hide_border=true" />
 </a>
 <p><strong>Tech Stack:</strong> React • Laravel • MySQL</p>
 <p>Complete e-commerce solution with inventory management and secure payment integration</p>
@@ -152,7 +152,7 @@ Communication • Teamwork • Time Management
 <td width="50%">
 <h3>Task Management System</h3>
 <a href="https://github.com/santaimany/task-manager">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=santaimany&repo=task-manager&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=santaimany&repo=SIPANDA&theme=tokyonight&hide_border=true" />
 </a>
 <p><strong>Tech Stack:</strong> Next.js • TypeScript • MySQL</p>
 <p>Project management tool with team collaboration and progress tracking features</p>
