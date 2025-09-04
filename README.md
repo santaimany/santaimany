@@ -80,7 +80,7 @@ Communication • Teamwork • Time Management
 ![GitHub Followers](https://img.shields.io/github/followers/santaimany?label=Followers&style=flat&color=blue)
 
 
-**Achievement**
+
 <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=discord&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </div>
 
