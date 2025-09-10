@@ -1,179 +1,83 @@
 <div align="center">
 
-# Hi, I'm Ahsanta Khalqi Imany
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
----
-
-## About Me
-
-I'm a Undergraduate Information Technology Student with experience in building modern web applications.
-
-
-
-<br clear="both" />
-
----
-
-## Technical Skills
-
-<div align="center">
-
-### Frontend Development
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br>Next.js
-</td>
-</tr>
-</table>
-
-### Backend Development
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-<br>PHP
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-<br>Laravel
-</td>
-</tr>
-</table>
-
-### Database & Tools
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-</tr>
-</table>
-
-### Professional Skills
-Communication • Teamwork • Time Management
-
-</div>
-
----
-
-## GitHub Statistics
-
-<div align="center">
+  <h1 style="border-bottom: none; font-size: 2.5em;">
+    Ahsanta Khalqi Imany
+  </h1>
   
-<img src="https://github-readme-stats.vercel.app/api?username=santaimany&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=santaimany&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santaimany&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="42%" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santaimany&custom_title=Santaimany's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=628fdb&point=19f4d6&area_color=21262d&title_color=628fdb&area=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santaimany&theme=tokyonight" alt="Profile Summary" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santaimany&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santaimany&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santaimany&theme=tokyonight" width="32%" />
-<!--END_SECTION:waka-->
+  <p style="font-size: 1.1em;">
+    A passionate Full-Stack Developer crafting clean, user-centric web applications.
+  </p>
+  
+  <p>
+    <a href="https://linkedin.com/in/your-linkedin-username" style="text-decoration: none;">LinkedIn</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="https://github.com/santaimany" style="text-decoration: none;">GitHub</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="https://your-portfolio.com" style="text-decoration: none;">Portfolio</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="mailto:your.email@example.com" style="text-decoration: none;">Email</a>
+  </p>
 
 </div>
 
----
-
-## Featured Projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/graph.png" alt="divider" width="100%" />
+</p>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/santaimany/ecommerce-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=santaimany&repo=SIPANDA&theme=tokyonight&hide_border=true" />
-</a>
-<p><strong>Tech Stack:</strong> React • Laravel • MySQL</p>
 
-</td>
-<td width="50%">
-<a href="https://github.com/santaimany/task-manager">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=santaimany&repo=SIPANDA&theme=tokyonight&hide_border=true" />
-</a>
-<p><strong>Tech Stack:</strong> Next.js • TypeScript • MySQL</p>
-</td>
-</tr>
-</table>
+### About Me
+
+I am a detail-oriented Information Technology student specializing in modern web technologies. My approach to development is rooted in solving problems efficiently while maintaining code quality and creating intuitive user interfaces. I thrive in collaborative environments and am always eager to learn and apply new skills to build meaningful digital products.
+
+<br>
+
+### Core Competencies
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
+
+<br>
+
+### GitHub Metrics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=santaimany&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santaimany&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+<br>
+
+### Selected Works
+
+<p>
+  <a href="https://github.com/santaimany/SIPANDA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santaimany&repo=SIPANDA&theme=default&hide_border=true" />
+  </a>
+  <a href="https://github.com/santaimany/task-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=santaimany&repo=task-manager&theme=default&hide_border=true" />
+  </a>
+</p>
 
 </div>
 
----
-
-## Recent Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=santaimany&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=Recent%20GitHub%20Activity" />
-
-</div>
-
----
-
-## Connect with Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/graph.png" alt="divider" width="100%" />
+</p>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=santaimany&color=blueviolet&style=for-the-badge&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/santaimany?label=Followers&style=for-the-badge&color=blue&logo=github" />
-
-**Thanks for visiting my profile**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
+  <p>
+    <b>Let's connect and create something amazing together!</b>
+  </p>
+  <p>
+    <sub>Last updated on: September 11, 2025</sub>
+  </p>
 </div>
