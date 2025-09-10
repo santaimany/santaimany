@@ -12,18 +12,6 @@
 I'm a Undergraduate Information Technology Student with experience in building modern web applications.
 
 
-```javascript
-const developer = {
-    name: "Ahsanta Khalqi Imany",
-    location: "Indonesia",
-    role: "Full Stack Developer",
-    frontend: ["React", "Next.js", "JavaScript", "TypeScript"],
-    backend: ["PHP", "Laravel"],
-    database: ["MySQL"],
-    skills: ["Communication", "Teamwork", "Time Management"],
-    currentStatus: "Available for new opportunities"
-};
-```
 
 <br clear="both" />
 
