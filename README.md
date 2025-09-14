@@ -40,27 +40,13 @@
 ### 🧰 My Digital Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,vue,html,css,php,laravel,nodejs,mysql,postgres,docker,git,github,vscode,postman,figma,vite&perline=10" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,html,css,php,laravel,mysql,docker,git,github,vscode,postman,figma&perline=8" alt="tech stack"/>
 </p>
 
 ---
-
-### 🏙️ My GitHub Skyline
-
-<p align="center">
-  <a href="https://skyline.github.com/santaimany/2025">
-    <img src="https://skyline.github.com/santaimany/2025.png?theme=dark" width="80%" alt="GitHub Skyline 2025" />
-  </a>
-  <br>
-  <i>My GitHub activity in 3D. Click to interact!</i>
-</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=santaimany&theme=dark" alt="Snake animation from GitHub contributions" />
 </div>
 
 ---
-
-<p align="center">
-  ✨ Built by Ahsanta Khalqi Imany ✨
-</p>
