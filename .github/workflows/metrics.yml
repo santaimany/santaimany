@@ -1,50 +1,57 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (runs every 6 hours)
-  schedule: [{cron: "0 */6 * * *"}]
-  # Lines below let you run workflow manually from the Actions tab
+  schedule: [{cron: "0 */4 * * *"}] # Berjalan setiap 4 jam
   workflow_dispatch:
-  # Run on push to main branch
-  push: {branches: ["main", "master"]} # Ditambahkan master untuk kompatibilitas
+  push: {branches: ["main", "master"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest # <-- INI BAGIAN YANG DIPERBAIKI
+      - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
           user: santaimany
           template: classic
+          
+          # Konfigurasi dasar
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Jakarta # Ganti sesuai zona waktu Anda
+          config_timezone: Asia/Jakarta
+          config_animations: yes
           config_display: large
-          
-          # Plugins
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: compact
 
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_threshold: 0%
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # Kustomisasi Tema "Modern Analytics"
+          # Latar belakang semi-transparan seperti kaca
+          base_header: "rgba(0, 0, 0, 0.2)"
+          base_main: "rgba(0, 0, 0, 0.2)"
+          base_background: "rgba(0, 0, 0, 0.2)"
+          border: "rgba(255, 255, 255, 0.2)"
+          # Warna aksen biru modern
+          color_title: "rgb(66, 153, 225)"
+          color_text: "rgb(255, 255, 255)"
+          color_icons: "rgb(66, 153, 225)"
           
+          # PLUGIN BARU untuk data yang lebih kaya
+          # Plugin Habits: Menampilkan kebiasaan coding Anda
+          plugin_habits: yes
+          plugin_habits_from: 200 # Menganalisis 200 commit terakhir
+          plugin_habits_days: 14   # Selama 14 hari terakhir
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+
+          # Plugin Lines of Code
           plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base-header, follow-up, general-stats
+          
+          # Plugin Traffic: Menampilkan total kunjungan ke repo Anda
+          plugin_traffic: yes
+          
+          # Plugin Bahasa Pemrograman
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+          plugin_languages_analysis_timeout: 15
+          
+          # Plugin Kalender Kontribusi
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
