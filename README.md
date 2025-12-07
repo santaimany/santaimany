@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=C6A0F6&center=true&vCenter=true&width=500&lines=Hi+,+I'm+Ahsanta+👋;Welcome+to+my+Dashboard" alt="Typing SVG" />
   </h1>
   
-  <h3>A Fullstack Developer passionate about building beautiful and scalable web applications.</h3>
+  <h3>A Software Engineer and Business Enthusiast, passionate about building beautiful and scalable applications.</h3>
 
   <p>
     <a href="https://linkedin.com/in/santaimany">
