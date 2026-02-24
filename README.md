@@ -1,52 +1,63 @@
 <div align="center">
-  
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=C6A0F6&center=true&vCenter=true&width=500&lines=Hi+,+I'm+Ahsanta+👋;Welcome+to+my+Dashboard" alt="Typing SVG" />
-  </h1>
-  
-  <h3>A Software Engineer and Business Enthusiast, passionate about building beautiful and scalable applications.</h3>
 
-  <p>
-    <a href="https://linkedin.com/in/santaimany">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://instagram.com/santaimany">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="mailto:santaimany@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
+  <!-- Animated Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4F46E5&height=200&section=header&text=Ahsanta%20Khalqi%20Imany&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Software+Engineer;System+Design+Enthusiast;Scalable+Architecture+Builder;Tech+%2B+Business+Mindset" />
+
+  <br/><br/>
+
+  <!-- Social Links -->
+  <a href="https://linkedin.com/in/santaimany">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:santaimany@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=santaimany&style=for-the-badge&color=7C3AED"/>
 
 </div>
 
 ---
 
-### 📊 My Developer Dashboard
+## Engineering Metrics
 
 <p align="center">
-  <img src="https://github.com/santaimany/santaimany/blob/main/github-metrics.svg" alt="Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santaimany&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=santaimany&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
 </p>
 
 ---
 
-### 🏆 My GitHub Trophies
+## Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santaimany&theme=catppuccin&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santaimany&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
 
-### 🧰 My Digital Toolbox
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,html,css,php,laravel,mysql,docker,git,github,vscode,postman,figma&perline=8" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,php,laravel,mysql,docker,git,github,figma,postman&perline=7" />
+</p>
+
+---
+
+## Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=santaimany&theme=dark" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?user=santaimany&theme=dark" alt="Snake animation from GitHub contributions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:7C3AED&height=120&section=footer"/>
 </div>
-
----
